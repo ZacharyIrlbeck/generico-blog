@@ -3,8 +3,6 @@ layout: single
 title: Como optimizar tus diseños al subirlos a GeneriCo
 date: 2019-07-20T22:18:24.544Z
 ---
-# Cómo optimizar tus diseños para subirlos a GeneriCo
-
 ¿Así es que decidiste hacer una cuenta de artista y estás empezando a subir tus diseños a GeneriCo? ¡Excelente decisión! Trabajaste por mucho tiempo en tus diseños y por ende queremos que luzcan lo más posible al imprimirse sobre una de nuestras prendas. A continuación te damos un par de tips y recomendaciones de cómo sacarle el máximo provecho a tus diseños.
 
 ## Tips generales:
