@@ -43,6 +43,8 @@ El último tema a considerar es el valor de tu tiempo. Si eres un artista de tie
 
 ## Vende tu arte con GeneriCo
 
+![third](https://res.cloudinary.com/dmagqdf8i/image/upload/v1564357314/blog-post-2-third.png "third")
+
 Si leyendo todo esto tienes tus dudas sobre abrir tu propia tienda, quizás GeneriCo es la solución correcta para ti. GeneriCo te ofrece todas las herramientas necesarias para vender tu arte en línea. Una vez creada tu cuenta, puedes subir tus diseños a nuestra plataforma y comenzar a vender tu arte en cuestión de minutos. Nosotros nos encargamos de todos los procesos laboriosos que incluyen impresión, cobranza, envíos y servicio de atención al cliente. Nuestro objetivo es liberarte de estos procesos tediosos para que tu como artista te puedas enfocar en lo que realidad importa: el arte.
 
 Ya que nosotros somos un agregador de contenido, hemos trabajado ya por un tiempo en desarrollar un tráfico orgánico de compradores que valoran el trabajo de artistas independientes. Esto le da a nuestros artistas el potencial de comenzar a vender desde el primer día que suben sus diseños a su tienda en GeneriCo. Sobre cada prenda vendida, nuestros artistas ganan una comisión justa, y reciben sus pagos de forma mensual.
