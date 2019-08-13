@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 6 Consideraciones antes de abrir una tienda de players en línea
+title: 6 Consideraciones antes de abrir una tienda de playeras en línea
 date: 2019-07-28T23:11:18.317Z
 ---
 ![main](https://res.cloudinary.com/dmagqdf8i/image/upload/v1564356121/blog-post-2-main.jpg "main")
