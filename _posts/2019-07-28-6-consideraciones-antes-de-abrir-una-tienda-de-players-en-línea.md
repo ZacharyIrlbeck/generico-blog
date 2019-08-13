@@ -7,7 +7,7 @@ date: 2019-07-28T23:11:18.317Z
 
 Si alguna vez has pensado en utilizar tu arte para imprimir ropa o t-shirts, creemos que estas en buen momento para hacerlo. El crecimiento de las ventas en línea en México ha explotado en los últimos años, dando oportunidad a emprendedores en todo el país para aprovechar esta tendencia. Sin embargo, al querer materializar este proyecto de ventas de ropa, quizás te has topado contra un par de obstáculos en el camino. A continuación te presentamos 6 consideraciones importantes que todo artista o emprendedor debe de tomar en cuenta antes de empezar a producir y vender sus playeras en línea.
 
-## 1. Proveedores y técnicas de Impresión
+## 1. Proveedores y técnicas de impresión
 
 El primer paso para abrir tu tienda de t-shirts en línea es encontrar al proveedor correcto para imprimir tus playeras. Existen muchas técnicas de impresión diferentes y a veces es complicado determinar cuál técnica es la mejor para tus diseños y modelo de negocio. 
 
